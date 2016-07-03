@@ -1,3 +1,7 @@
+# vim图示
+![vim](http://upload-images.jianshu.io/upload_images/166109-2405264e12db784e.png?imageMogr2/auto-orient/strip%7CimageView2/2/format/jpg)
+
+
 # 超强vim配置文件
 
 [![Build Status](https://travis-ci.org/ma6174/vim.png?branch=master)](https://travis-ci.org/ma6174/vim)
